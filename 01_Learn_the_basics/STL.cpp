@@ -25,7 +25,8 @@ void explainPairs() {
 }
 
 void explainVector() {
-
+    // Can also be written as {value1, value2} while returning if you dont want to take up additional space.
+    // {value1, value2}
     vector<int> v;
 
     v.push_back(1);
